@@ -61,15 +61,26 @@ class Parser {
             eat(Token.TokenType.IDENTIFIER); // This consumes the identifier token.
         } else {
             // If the token value does not match the pattern, report an error.
-            error("Name does not match the required pattern. Expected an identifier starting with a letter followed by letters or digits.");
+            error("Name does not match the required pattern. Expected an identifier starting with a letter followed by letters or digits."+
+            "Invalid identifier '" + tokenValue + "' on line " + currentToken.getLine());        
         }
     }
     
     private void declarations() {
 //    	System.out.println("Parsing declarations: " + currentToken);
-        constDecl();
-        while (currentToken.getType() == Token.TokenType.VAR) {
-            varDecl();
+    	
+//        constDecl();
+//        while (currentToken.getType() == Token.TokenType.VAR) {
+//            varDecl();
+//        }
+        
+        
+        while (currentToken.getType() == Token.TokenType.CONST || currentToken.getType() == Token.TokenType.VAR) {
+            if (currentToken.getType() == Token.TokenType.CONST) {
+                constDecl();
+            } else if (currentToken.getType() == Token.TokenType.VAR) {
+                varDecl();
+            }
         }
 //        System.out.println("Parsed declarations successfully: " + currentToken);
 
