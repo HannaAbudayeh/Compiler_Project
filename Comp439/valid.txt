@@ -1,0 +1,14 @@
+# include < inputfile > ;
+const float x = 12.0 ; const int y = 10 ;
+var int x ;
+function import ;
+newb 
+if (  x  < y  ) newb cin >> x ; endb
+else cout <<  y ;
+endb ;
+newb 
+if (  x  <  y  ) newb cin >> x ; endb
+else cout <<  y  ;
+endb 
+
+exit

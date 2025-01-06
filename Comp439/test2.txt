@@ -1,0 +1,14 @@
+# include <another_lib>;
+const float pi = 3.14;
+var int result;
+function calculateCircleArea;
+newb
+    cin >> radius;
+    result := pi * radius * radius;
+    if (result > 100) then
+        cout << "Large Circle";
+    else
+        cout << "Small Circle";
+    endb
+endb
+exit;

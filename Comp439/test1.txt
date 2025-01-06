@@ -1,0 +1,10 @@
+# include <my_library>;
+const int x = 10;
+var int y;
+function main;
+newb
+    x := 5 + 10;
+    cout << x;
+    if (x > 10) then y := x * 2;
+endb
+exit;

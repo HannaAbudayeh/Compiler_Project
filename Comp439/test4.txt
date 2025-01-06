@@ -1,0 +1,10 @@
+# include <util>;
+var int counter;
+function loopTest;
+newb
+    counter := 0;
+    while (counter < 10) do
+        counter := counter + 1;
+        cout << counter;
+    endb
+exit;

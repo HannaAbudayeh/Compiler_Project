@@ -1,0 +1,63 @@
+#include <game> ;
+const int maxLevel = 10 ;
+const char grade = 66 ;
+var int playerScore, highScore ;
+var float averageTime, completionRate ;
+
+function initialize ;
+var int baseScore ;
+newb
+baseScore := 100 ;
+playerScore := baseScore + 50 ;
+highScore := baseScore * 2 ;
+endb;
+
+function calculatePerformance ;
+var float efficiency ;
+newb
+efficiency := completionRate * 1.25 ;
+efficiency := efficiency - 5.0 ;
+playerScore := playerScore + efficiency ;
+endb;
+
+newb
+if(playerScore =< highScore)
+highScore := playerScore 
+else
+playerScore := highScore div 2 ;
+
+if(completionRate => 75)
+averageTime := averageTime - 1.5 
+else
+averageTime := averageTime + 2.0 ;
+
+while(playerScore < maxLevel)
+newb
+playerScore := playerScore + 10 ;
+completionRate := completionRate + 5.5 ;
+endb;
+
+repeat
+averageTime := 15.75 ;
+playerScore := playerScore div 2 ;
+completionRate := completionRate + 10 ;
+until playerScore > highScore ;
+
+call initialize ;
+cin >> playerScore ;
+cout << playerScore ;
+cout << averageTime ;
+cout << grade ;
+
+newb
+cin >> completionRate ;
+cout << highScore ;
+cout << averageTime ;
+repeat
+playerScore := playerScore + 20 ;
+completionRate := completionRate - 1.25 ;
+until completionRate =< 50 ;
+endb;
+
+endb
+exit

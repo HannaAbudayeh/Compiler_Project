@@ -1,0 +1,13 @@
+# include <math_lib>;
+# include <io_lib>;
+function addNumbers;
+newb
+    cin >> a >> b;
+    result := a + b;
+    cout << result;
+endb
+function main;
+newb
+    call addNumbers;
+endb
+exit;

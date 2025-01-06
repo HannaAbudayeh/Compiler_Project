@@ -1,0 +1,40 @@
+#include <mathio>; 
+#include <inputfile>; 
+#include <iofile>;
+
+const int x = 5; 
+const int y = 10; 
+const float z = 50.12364;
+
+var int first, second, third;
+var float one, two, three;
+
+function firstFunction;
+const int a = 1;
+var float b;
+newb
+    a := (b mod a * x) + 5;
+    cin >> b;
+    cout << a;
+
+    if (a =! b) 
+        while (5 => a) 
+            newb
+                repeat call firstFunction;
+                until 5 => b;
+            endb
+    else
+        if (5 => b) 
+            repeat call firstFunction;
+            until 5 => b
+        else 
+                  call firstFunction;
+
+        call firstFunction;
+
+endb;
+newb
+            repeat call firstFunction;
+until x=5;
+endb
+exit

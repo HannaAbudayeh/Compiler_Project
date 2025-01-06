@@ -1,0 +1,148 @@
+
+
+#include <random> ;
+#include <math> ;
+const int MAX = 100 ;
+var int numbers, sum, count ;
+function calculateSum ;      
+const int LIMIT = 200 ;
+var int index, temp ;
+
+newb
+cin >> numbers ;
+while ( index < LIMIT )
+   newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+   endb;
+if (index < LIMIT) 
+   if (index > a)
+      sum := sum + numbers 
+else
+  newb
+
+cin >> numbers ;
+
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+
+
+while ( index < LIMIT }
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 1.1 ;
+
+    endb;
+  endb;
+endb;
+newb
+cin >> numbers ;
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+newb
+     cin >> numbers ;
+     cout << 100 ;
+endb;
+repeat 
+cin >> numbers ;
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+newb
+     cin >> numbers ;
+     cout << 100 ;
+endb;
+repeat 
+    sum := sum div numbers ;
+repeat 
+repeat 
+repeat 
+    sum := sum + numbers ;
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+if (index < LIMIT) 
+   if (index > a)
+      sum := sum + numbers 
+else
+  if (index < LIMIT) 
+   if (index > a)
+      sum := sum + numbers 
+else
+  newb
+cin >> numbers ;
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+while ( index < LIMIT )
+    newb
+ name := hello*324+sgsfgFS+32423;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+  endb;
+  newb
+cin >> numbers ;
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+while ( index < LIMIT )
+    newb
+    sum := sum + numbers ;
+    count := count + 1 ;
+     cin >> numbers ;
+     cout << 100 ;
+    endb;
+  endb;
+until index < LIMIT;
+    sum := sum + numbers ;
+until index < LIMIT;
+    sum := sum + numbers ;
+until index < LIMIT;
+until index < LIMIT;
+until index < LIMIT; 
+endb
+exit
