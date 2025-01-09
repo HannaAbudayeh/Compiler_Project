@@ -15,7 +15,8 @@ public class Main {
 //            input = new String(Files.readAllBytes(Paths.get("test4.txt"))); 
 //            input = new String(Files.readAllBytes(Paths.get("3.txt"))); 
 //            input = new String(Files.readAllBytes(Paths.get("valid2.txt"))); 
-            input = new String(Files.readAllBytes(Paths.get("valid.txt"))); 
+//            input = new String(Files.readAllBytes(Paths.get("valid.txt"))); 
+            input = new String(Files.readAllBytes(Paths.get("TestCode.txt"))); 
 
 
         } catch (IOException e) {
