@@ -1,0 +1,85 @@
+#include (JvfIH>;
+#include <pbVVg>;
+const char bqHUT = 13.58;
+function tyMAh;
+const int spxtE = 43;
+const float QvYaU = 54.65;
+const float wkuqZ = 1;
+const char HHfLS = 40.1;
+newb
+endb;
+
+function MWGin;
+const char OaNmK = 86;
+const float DkroP = 20;
+const int tqCzT = 70.84;
+
+newb
+while (LFgxk => zZxpm) newb
+newb
+newb
+if (kIpnB = GRONU) repeat
+if (ZAiul =! LDenp) if (ETXfG < ijhNH) newb
+if (juQFu > SjwDp) if (zxsfM =< xcoJE) newb
+endb else newb
+endb else repeat
+until aHPVp > gFQVj;
+cin >> PACJe;
+newb
+call LbFhb;
+endb;
+endb else while (Bgdro => WhrvE) newb
+call GNFZZ;
+endb else if (WMVHN =< OQFrP) repeat
+until fghHd < EWVNz else WTVXS := 100;
+until jdvnH > CracE else newb
+if (IxIfd = pMALu) newb
+call MMzqx;
+endb else cin >> UsiYJ;
+endb;
+endb;
+endb;
+endb;
+cin >> fdolC;
+endb;
+function QzFtl;
+const char ITXLo = 17;
+var char LubWh, qYRDf;
+var int MDRGe, fQtuL;
+newb
+endb;
+newb
+newb
+while (roKty =< gIgew) newb
+Vehgs := 89;
+endb;
+endb;
+call RdYXg;
+cin >> rDDMF;
+newb
+endb;
+cin >> gjXWj;
+cout << 87.54;
+repeat
+if (KTRUy = GIcGZ) while (mznbw > GOwpL) newb
+if (xVEJZ => keWUe) newb
+newb
+while (jIOPq =! VRfjc) newb
+endb;
+endb;
+endb else newb
+endb;
+call CyIqQ;
+if (zqPfU =! mGQlf) repeat
+until QLnZR =< eSNTA else call AKKrL;
+while (OMWZG > yLHak) newb
+cout << 35.92;
+endb;
+endb else newb
+endb;
+until MfEQP => dLjAT;
+newb
+endb;
+repeat
+until UzFJc = SzKfx;
+endb exit

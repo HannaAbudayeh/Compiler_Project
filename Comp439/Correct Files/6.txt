@@ -1,0 +1,8 @@
+const int tjHNd = 50;
+const char pxnjn = 53.70;
+const int vRCHk = 47.92;
+const int GAjqK = 23.18;
+var char ECjEN, lKqhA;
+newb
+endb
+exit

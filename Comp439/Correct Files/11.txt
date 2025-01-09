@@ -1,0 +1,7 @@
+#include <HoSwV>;
+#include <BAJfg>;
+var float HdhGM, EmxGH;
+var int uILfA, PFRIy;
+var float doBRP, ehKuM;
+newb
+endb exit

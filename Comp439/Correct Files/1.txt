@@ -1,0 +1,20 @@
+#include <stdioh>;
+const int eoqzN = 884;
+const int EHtr = 505;
+const int EtGdOs = 22;
+var int OOxqx;
+function AKWTJh;
+const int eoqzN = 884;
+const int EHtr = 505;
+const int EtGdOs = 22;
+var int OOxqx;
+newb
+if (JkGin > 962) uMiga := 227;
+endb;
+newb
+tAyP := 707;
+while (true=3) newb
+repeat iULqfk := 811; until yQwS > 448;
+endb;
+endb
+exit

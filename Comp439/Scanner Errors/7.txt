@@ -1,0 +1,11 @@
+#include <yyqzL>;
+const int UgnAF = 67.0;
+const float lfMRv = 88.58$;
+function tsxPx;
+var float pQvNX, HKuzr;
+var int IyBbU, GQVlG;
+var int SnYLo, cWijb;
+newb
+endb;
+newb
+endb    exit

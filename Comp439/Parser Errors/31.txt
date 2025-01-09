@@ -1,0 +1,14 @@
+function DMloV;
+const int xVLTI = 33.29;
+const int zhOVJ = 74;
+var int OzpWp, OTbQF;
+
+newb
+endb;
+function tnbRi;
+const float UnAte = 70.60;
+newb
+endb;
+newb
+endb
+exit exit

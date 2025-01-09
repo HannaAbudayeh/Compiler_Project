@@ -1,0 +1,43 @@
+#include <MteKU>;
+#include <Spxzn>;
+
+const float lwpIa = 21.54;
+const float oWICg = 6;
+const float SSJqa = 7;
+const float qjgcw = 95.16;
+var int Spvtq, mwGYF;
+
+function VLSta;
+var char nxFmg, PCutR;
+
+newb
+if (twdCh > DhLVN) repeat
+until hsmUw = XNMvu else if (qHWjr => pVgRe) if (hOGCk =! NNvcA) newb
+if (osnRb = AEXgO) gsGKN := 88.62 else repeat
+call VrHcl;
+gBJtj := 78.23;
+until pxAaX < OuObv;
+cin >> UOBmy;
+endb else newb
+cin >> jjnWp;
+endb else zhbXp := 49.26;
+
+newb
+call xrqxa;
+endb;
+
+while (MqCqR < qHZdL) newb
+endb;
+endb;
+
+newb
+if (ogZro =< RcboZ) while (MXcyx = BKSbQ) newb
+endb else while (QBhsa =! IRSuu) newb
+repeat
+yTSho := 39;
+call tWHwW;
+cout << 64;
+until CmWPv > apqZB;
+endb;
+call vDBbI;
+endb end

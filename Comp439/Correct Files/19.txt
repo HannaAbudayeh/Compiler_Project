@@ -1,0 +1,22 @@
+#include <LibraryOne>;
+#include <LibraryTwo>;
+const int Start = 0;
+const int End = 10;
+var int counter, increment;
+function CountUp;
+var int step;
+
+newb
+    while (counter < End) newb
+        counter := counter + increment;endb;
+    
+endb;
+
+newb
+    if (increment > 0) 
+        cout << Countingup
+     else 
+        cout << Invalidincrement;
+    
+endb
+exit

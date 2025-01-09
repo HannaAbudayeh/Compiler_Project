@@ -1,0 +1,62 @@
+#include <data> ;
+#include <math> ;
+
+const int maxScore = 100 ;
+const int minScore = 0 ;
+const float pi = 3.14 ;
+const float e = 2.71 ;
+
+var int score, total, difference ;
+var float average, ratio, result ;
+var char grade ;
+
+function initialize ;
+var int initValue ;
+newb
+    initValue := 0 ;
+    score := initValue ;
+    total := 100 ;
+endb;
+
+function calculateAverage ;
+var float tempAverage ;
+newb
+    tempAverage := total / 2 ;
+    if (tempAverage > 0)
+        average := tempAverage
+    else
+        average := 0 ;
+endb;
+
+newb
+    score := 10 ;
+    total := 20 ;
+    difference := total - score ;
+    ratio := score / total ;
+
+    if (score < total)
+        grade := maxScore
+    else
+        grade := minScore ;
+
+    while (score < total)
+    newb
+        score := score + 1 ;
+        total := total - 1 ;
+    endb;
+
+    repeat
+        total := total - 1 ;
+    until total = score ;
+
+    cin >> score ;
+    cin >> ratio ;
+    cout << total ;
+    cout << average ;
+    cout << grade ;
+
+    call initialize ;
+    call calculateAverage ;
+endb
+
+exit

@@ -1,0 +1,25 @@
+#include <lolo>;
+const int Rxrj = 894;
+var int EpWjrCc;
+var int yWsa;
+var int Oyi;
+var int RpahOE;
+
+function Hnul;
+const int Rxrj = 894;
+var int EpWjrCc;
+var int yWsa;
+var int Oyi;
+var int RpahOE;
+
+newb
+if (mUnzVz =! 75) tqB := 450;
+endb;
+
+newb
+badWI := 393;
+while (6 >> 2) newb
+repeat ByOes := 394; until 600 > 700;
+endb;
+endb
+exit

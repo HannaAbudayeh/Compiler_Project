@@ -1,0 +1,22 @@
+#include <MathLib>;
+#include <StringUtils>
+const float Pi = 3.14159;
+var float radius, area, circumference;
+
+function CalculateGeometry;
+var int value;
+
+newb
+    if (radius > 0) 
+        area := Pi * radius * radius
+     else 
+        cout << Invalidradius;
+    
+endb;
+newb
+    while (value < 10) newb
+        value := value + 1;
+    endb;
+    
+endb
+exit

@@ -1,0 +1,4 @@
+const int zmVvf = 27;
+newb
+endb
+exit

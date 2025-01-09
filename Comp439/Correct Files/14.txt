@@ -1,0 +1,22 @@
+#include <LibraryA>;
+#include <LibraryB>;
+const int constantA = 42;
+const float constantB = 99.5;
+var int varA, varB, varC;
+
+function exampleFunction;
+var float functionVar1, functionVar2;
+
+newb
+    if (varA = varB)
+        varA := 10
+    else 
+        cout << HelloWorld;    
+endb;
+
+newb
+    repeat
+        varC := varA + varB;
+    until varC = 100;
+endb
+exit

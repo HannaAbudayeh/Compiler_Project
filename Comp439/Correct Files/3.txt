@@ -1,0 +1,39 @@
+#include <soso>;
+const int WsQzuXqz = 683;
+const int GeXUSTVF = 961;
+var int NlgMbwWA;
+var int pguvfU;
+var int NNweO;
+var int tiz;
+
+function AKbTB;
+const int WsQzuXqz = 683;
+const int GeXUSTVF = 961;
+var int NlgMbwWA;
+var int pguvfU;
+var int NNweO;
+var int tiz;
+
+newb
+if (fEzOr > 432) TOXs := 732;
+endb;
+
+function SvT;
+const int WsQzuXqz = 683;
+const int GeXUSTVF = 961;
+var int NlgMbwWA;
+var int pguvfU;
+var int NNweO;
+var int tiz;
+
+newb
+if (WmBrAKql > 541) ZDc := 524;
+endb;
+
+newb
+bZnkxLJ := 283;
+while (10 < 4) newb
+repeat CrhjZh := 484; until DnL > 896;
+endb;
+endb
+exit

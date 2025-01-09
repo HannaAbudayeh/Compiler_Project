@@ -1,0 +1,21 @@
+#include <IOStream>;
+const int MaxValue = 100;
+const char Separator = 7;
+var int currentValue, totalSum;
+function SumValues;
+var int number;
+
+newb
+    repeat
+        number := number + 1;
+    until number = MaxValue;×
+endb;
+
+newb
+    if (currentValue = totalSum) 
+        cout << Equalvalues
+     else 
+        cout << Notequal;
+    
+endb
+exit

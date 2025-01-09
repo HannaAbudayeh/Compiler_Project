@@ -1,0 +1,16 @@
+function myFunction;
+const char myCharConst = 65;
+const int myIntConst = 15;
+var char nameX, nameY;
+
+newb
+    while (nameX =! nameY)newb
+        cout << nameX;
+    endb; 
+endb;
+\
+newb
+    varX := 20;
+    call myFunction;
+endb
+exit

@@ -1,0 +1,37 @@
+#include <stdioh>;
+const int lvk = 78;
+const int ByLjTeUs = 389;
+const int tswozLDW = 750;
+const int xWNw = 140;
+const int qcn = 253;
+var int Jts;
+
+function QdxHO;
+const int lvk = 78;
+const int ByLjTeUs = 389;
+const int tswozLDW = 750;
+const int xWNw = 140;
+const int qcn = 253;
+var int Jts;
+newb
+if (FQBZTa > 52) RWMPQY := 420;
+endb;
+
+function HnQxB;
+const int lvk = 78;
+const int ByLjTeUs = 389;
+const int tswozLDW = 750;
+const int xWNw = 140;
+const int qcn = 253;
+var int Jts;
+newb
+if (OZGZGdU >= 237) bXU := 174;
+endb;
+
+newb
+RaCacQ := 335;
+while (true =< 6.656) newb
+repeat Msh := 444; until WHiU > 25;
+endb;
+endb
+exit
