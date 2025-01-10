@@ -1,32 +1,29 @@
 package pro;
 
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Scanner;
 import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
-        String input = "";
+        Scanner tt = new Scanner(System.in);
+//        enter the full path for the test file like this C:\Users\Hanna\eclipse-workspace\comp439\hanna.txt
+        System.out.println("Enter the full path to the test.txt:");
+        String testloc = tt.nextLine();
+        String PathHan = "";
         try {
-//            input = new String(Files.readAllBytes(Paths.get("test.txt")));//make sure that file name is test.txt
-//            input = new String(Files.readAllBytes(Paths.get("test1.txt"))); 
-//            input = new String(Files.readAllBytes(Paths.get("test2.txt"))); 
-//            input = new String(Files.readAllBytes(Paths.get("test3.txt"))); 
-//            input = new String(Files.readAllBytes(Paths.get("test4.txt"))); 
-//            input = new String(Files.readAllBytes(Paths.get("3.txt"))); 
-//            input = new String(Files.readAllBytes(Paths.get("valid2.txt"))); 
-//            input = new String(Files.readAllBytes(Paths.get("valid.txt"))); 
-            input = new String(Files.readAllBytes(Paths.get("TestCode.txt"))); 
-
-
-        } catch (IOException e) {
-            System.err.println("Error reading from test.txt: " + e.getMessage());
-            return; // Exit if there was an error reading the file
+        	PathHan = Files.readString(Path.of(testloc));
+        } catch (IOException e){
+            System.err.println("Error reading the path: " + e.getMessage());
+            return; // stop if there was an error reading the file
         }
 
-        Lexer lexer = new Lexer(input);
+        Lexer lexer = new Lexer(PathHan);
         Parser parser = new Parser(lexer);
         parser.parse();
-        System.out.println("parsing done with zero errors");
-    }
+        System.out.println("parsing done with 0 errors");
+        tt.close();
+       }
 }
